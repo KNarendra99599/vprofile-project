@@ -30,13 +30,13 @@
         <dependency>
             <groupId>org.sonarsource.sonarqube</groupId>
             <artifactId>sonar-plugin-api</artifactId>
-            <version>${sonarqube.version}</version>
+            <version>8.9.1.44547</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.sonarsource.javascript</groupId>
             <artifactId>sonar-javascript-plugin</artifactId>
-            <version>${sonar-javascript-plugin.version}</version>
+            <version>7.2.0.15064</version>
             <scope>provided</scope>
         </dependency>
 
